@@ -90,6 +90,9 @@
     <key name="prefer-hw-decoding" type="b">
       <default>true</default>
     </key>
+    <key name="record-location" type="s">
+      <default>""</default>
+    </key>
   </schema>
 
 </schemalist>
